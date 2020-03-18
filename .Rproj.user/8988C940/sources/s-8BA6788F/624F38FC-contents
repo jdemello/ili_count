@@ -31,7 +31,7 @@ for(i in seq_along(usaStates)){
          subtitle="[-10,+10] weeks",
          caption= "Source: FluView Interactive (https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html)")
   
-  tiff(paste0("figures/", abv[[i]], "_ili.tiff"))
+  jpeg(paste0("figures/", abv[[i]], "_ili.jpeg"))
   print(p)
   dev.off()
   
