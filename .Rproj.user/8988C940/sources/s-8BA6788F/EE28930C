@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "263069485",
+    "hash" : "0",
     "id" : "EE28930C",
-    "lastKnownWriteTime" : 1584562567,
-    "last_content_update" : 1584562567345,
+    "lastKnownWriteTime" : 1584562603,
+    "last_content_update" : 1584562603555,
     "path" : "~/flu_like/.gitignore",
     "project_path" : ".gitignore",
     "properties" : {
-        "cursorPosition" : "0,14",
+        "cursorPosition" : "1,10",
         "scrollLine" : "0",
         "tempName" : "Untitled1"
     },
